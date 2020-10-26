@@ -44,3 +44,5 @@ Horaires : 8h – 12h avec une pause-café à 10h
 **Jour 4**
 Création de script shell : Programmation shell, Les structure de contrôle IF, La boucle While
 Installation de Linux et des paquets (logiciels)
+
+## Télécharger tout [ici](https://github.com/Ezechiel-Tibiri/Formation_linux/blob/main/formation_linux_daoi.zip)
