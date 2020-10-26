@@ -32,16 +32,21 @@ Horaires : 8h – 12h avec une pause-café à 10h
     * TP : découverte de la distribution Linux Ubuntu, ouverture de session, prompt, etc .
 
 **Jour 2**
-    * Se déplacer dans l’arborescence de fichier : `pwd, ls, cd, mkdir etc`.
-    * Manipuler des fichiers : `head, tail, sort, cut, wc, grep`
-    * Se connecter à un ordinateur distant, transférer les données : `ssh, scp, wget`
+
+    * Se déplacer dans l’arborescence de fichier : **pwd, ls, cd, mkdir etc**
+    
+    * Manipuler des fichiers : **head, tail, sort, cut, wc, grep**
+    
+    * Se connecter à un ordinateur distant, transférer les données : **ssh, scp, wget**
 
 **Jour 3**
-    • Filtres et redirection : combinaison de plusieurs commandes
-    • Les commandes de sauvegarde : `tar, rsync`
-    • Changer les droits d’exécution
+
+    * Filtres et redirection : combinaison de plusieurs commandes
+    * Les commandes de sauvegarde : tar, rsync
+    * Changer les droits d’exécution
 
 **Jour 4**
+
 Création de script shell : Programmation shell, Les structure de contrôle IF, La boucle While
 Installation de Linux et des paquets (logiciels)
 
