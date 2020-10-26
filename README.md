@@ -6,7 +6,7 @@ Des systèmes Linux sont souvent installés pour servir de serveurs de fichiers,
 
 ## Proposition de planning
 **Durée : 4 jours** 
-Horaires : 8h – 12h avec une pause-café à 10h
+* Horaires : 8h – 12h avec une pause-café à 10h
 
 ## Objectif principal : Lancer vos analyses bioinformatiques sous Linux
 ### Objectifs spécifiques
@@ -23,6 +23,7 @@ Horaires : 8h – 12h avec une pause-café à 10h
     * Créer des scripts shell : ensemble de commandes dans un fichier
 
 **Jour 1**
+
     * Tour de table et présentation
     * Généralités sur les logiciels libres
     * Historique de Unix/Linux
@@ -34,9 +35,7 @@ Horaires : 8h – 12h avec une pause-café à 10h
 **Jour 2**
 
     * Se déplacer dans l’arborescence de fichier : **pwd, ls, cd, mkdir etc**
-    
-    * Manipuler des fichiers : **head, tail, sort, cut, wc, grep**
-    
+        * Manipuler des fichiers : **head, tail, sort, cut, wc, grep**
     * Se connecter à un ordinateur distant, transférer les données : **ssh, scp, wget**
 
 **Jour 3**
